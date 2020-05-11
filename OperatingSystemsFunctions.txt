@@ -1,0 +1,1 @@
+One operating function is Device Management. The function of device management is to keep track of all devices. It does this by using a task known as the I/O controller. it does a number of things from deciding whic process gets the device for how much time and when to allocating device effciency. 
